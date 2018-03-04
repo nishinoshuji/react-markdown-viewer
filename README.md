@@ -1,1 +1,3 @@
-# react-markdown-viewer
+`npm run webpack`  
+`npm run watch`  
+`npm run deploy`
